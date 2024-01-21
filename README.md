@@ -1,4 +1,5 @@
 CryptoConverter
+
 Descrição
 O CryptoConverter é um contrato inteligente (smart contract) que permite a conversão de preços de USD para criptomoeda. Ele utiliza um oráculo de preços para buscar o preço atual do USD e realizar a conversão.
 
